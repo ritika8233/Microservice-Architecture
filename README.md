@@ -27,4 +27,3 @@ Here this project consist of mainly 3 microservices and those are,
 * Zipkin
 * Spring Cloud Sleuth
 * Rest Template
-* 
